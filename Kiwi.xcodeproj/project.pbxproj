@@ -1982,7 +1982,7 @@
 				PRODUCT_NAME = "Kiwi-OSX";
 				PUBLIC_HEADERS_FOLDER_PATH = KiwiPublicHeaders;
 				RUN_CLANG_STATIC_ANALYZER = YES;
-				SDKROOT = macosx;
+				SDKROOT = macosx10.7;
 				VALID_ARCHS = x86_64;
 			};
 			name = Debug;
@@ -2005,7 +2005,7 @@
 				PRODUCT_NAME = "Kiwi-OSX";
 				PUBLIC_HEADERS_FOLDER_PATH = KiwiPublicHeaders;
 				RUN_CLANG_STATIC_ANALYZER = YES;
-				SDKROOT = macosx;
+				SDKROOT = macosx10.7;
 				VALID_ARCHS = x86_64;
 			};
 			name = Release;
